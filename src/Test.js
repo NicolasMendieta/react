@@ -13,7 +13,7 @@ function Test() {
 
   return (
   <div>
-    <button>boton jsx</button>
+    <h1>Hola Macho!</h1>
   </div>
   );
 }

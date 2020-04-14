@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18bcb00f-d215-4911-9cd8-97ed4eab1e9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +19,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -55,18 +54,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -78,33 +65,39 @@
       <option name="presentableId" value="Default" />
       <updated>1579626998829</updated>
       <workItem from="1579627012973" duration="2278000" />
+      <workItem from="1586881087426" duration="2202000" />
+      <workItem from="1586883693421" duration="884000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1579698318742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1579698318742" />
-    <state width="1345" height="210" key="GridCell.Tab.0.bottom" timestamp="1579629736744">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1831" height="279" key="GridCell.Tab.0.bottom" timestamp="1586883293070">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1345" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1579629736744" />
-    <state width="1345" height="210" key="GridCell.Tab.0.center" timestamp="1579629736744">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1831" height="279" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586883293070" />
+    <state width="1831" height="279" key="GridCell.Tab.0.center" timestamp="1586883293070">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1345" height="210" key="GridCell.Tab.0.center/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1579629736744" />
-    <state width="1345" height="210" key="GridCell.Tab.0.left" timestamp="1579629736744">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1831" height="279" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586883293070" />
+    <state width="1831" height="279" key="GridCell.Tab.0.left" timestamp="1586883293069">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1345" height="210" key="GridCell.Tab.0.left/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1579629736744" />
-    <state width="1345" height="210" key="GridCell.Tab.0.right" timestamp="1579629736744">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1831" height="279" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586883293069" />
+    <state width="1831" height="279" key="GridCell.Tab.0.right" timestamp="1586883293070">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1345" height="210" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1579629736744" />
+    <state width="1831" height="279" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586883293070" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1579627059344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
